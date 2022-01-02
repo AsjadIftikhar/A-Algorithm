@@ -35,8 +35,9 @@ Install Tkinter Library
 sudo apt-get install python3-tk
 ```
 
+Change directory to the one containing simulation.py file.
+
 ```sh
-// Change directory to the one containing simulation.py file.
 cd path/to/simulation/file
 ```
 
