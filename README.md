@@ -28,7 +28,6 @@ It was created in Artifical Intelligence Course during Spring 2021.
 
 ## Installation
 
-Panda Compiler requires [Java 17](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html) to run.
 
 Install Tkinter Library
 
@@ -36,7 +35,10 @@ Install Tkinter Library
 sudo apt-get install python3-tk
 ```
 
-- Change directory to the one containing simulation.py file.
+```sh
+// Change directory to the one containing simulation.py file.
+cd path/to/simulation/file
+```
 
 Run Simulation
 
